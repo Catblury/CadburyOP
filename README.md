@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently associated with **Project Detox**
 
-- 📫 How to reach me **kaushikb211@gmail.com**
+- 📫 How to reach me **||kaushikb211@gmail.com||**
 
 - ⚡ Fun fact **I am Friendly.**
 
