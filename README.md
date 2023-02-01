@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Kaushik Biswas</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
+<img align="right" alt="coding" width="200" src="https://media0.giphy.com/media/bGgsc5mWoryfgKBx1u/200w.gif?cid=6c09b952f0jpb1j8fp8k01tusk98t3p8gy4r25rm279rxdw5&rid=200w.gif&ct=g">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cadburyop&label=Profile%20views&color=0e75b6&style=flat" alt="cadburyop" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cadburyop" alt="cadburyop" /></a> </p>
