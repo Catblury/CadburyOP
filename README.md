@@ -1,4 +1,4 @@
-![logo] (https://github.com/CadburyOP/CadburyOP/blob/4d70048c35764da1c22053d53962584cbf1e96de/standard.gif)
+![logo](https://github.com/CadburyOP/CadburyOP/blob/2313d008f793420cfc74a71611c88eb5c9bb2af5/static.png)
 
 <h1 align="center">Hi 👋, I'm Kaushik Biswas</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
