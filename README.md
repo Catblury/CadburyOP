@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kaushik Biswas</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" alt="catblury" /> </p>
+<p align="left"> <img src="https://media.giphy.com/media/xUPGcEliCc7bETyfO8/giphy.gif" alt="catblury" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=catblury" alt="catblury" /></a> </p>
 
