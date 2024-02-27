@@ -3,9 +3,8 @@
 
 <p align="left"> <img src="https://media.giphy.com/media/xUPGcEliCc7bETyfO8/giphy.gif" alt="catblury" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=catblury" alt="catblury" /></a> </p>
+![image](https://github.com/CatbluryOP/CatbluryOP/assets/116509055/7da512c8-f72e-4ea7-a488-426bb65bda61)
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🔭 My Gaming Name Is **Catblury**
 
@@ -22,8 +21,4 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/kaushikb21V"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/kaushikb21V" /></a><a href="https://ko-fi.com/https://ko-fi.com/kaushikbiswas"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="https://ko-fi.com/kaushikbiswas" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=catblury&show_icons=true&locale=en&layout=compact" alt="catblury" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=catblury&show_icons=true&locale=en" alt="catblury" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=catblury&" alt="catblury" /></p>
