@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kaushik Biswas</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <img src="https://media.giphy.com/media/xUPGcEliCc7bETyfO8/giphy.gif" alt="catblury" /> </p>
 
 ![image](https://github.com/CatbluryOP/CatbluryOP/assets/116509055/7da512c8-f72e-4ea7-a488-426bb65bda61)
 
